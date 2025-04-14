@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   sass: sass.html
-last_built: 2025-04-01T22:50Z
+last_built: 2025-04-14T11:04Z
 urls:
   reference: https://rstudio.github.io/sass/reference
   article: https://rstudio.github.io/sass/articles
